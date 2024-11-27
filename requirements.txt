@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+googlesearch_python==1.2.5
+requests
+torch
